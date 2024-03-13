@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.main{
+    width: 400px;
+    margin:  0 auto;
+    margin-top: 5%;
+    padding: 30px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 8px 16px;
+}
+
+button{
+    background: rebeccapurple;
+    padding: 5px 7px;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+
+div ul li{
+    padding: 10px 0;
+    width: 100%;
+    display: block;
+    border-bottom: 1px solid;
+}
